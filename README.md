@@ -130,8 +130,6 @@ Below is the logical architecture of the system:
 - **Agent Layer**: reasoning, tool usage, retrieval decisions
 - **Generation Layer**: final LLM-based answer generation
 
-Then you can use this README as-is if you name them like this:
-
 ### Data Ingestion Pipeline
 
 ![Data Ingestion Pipeline](assets/images/data-ingestion.png)
