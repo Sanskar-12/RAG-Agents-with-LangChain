@@ -1,0 +1,7 @@
+Agentic AI systems are designed to perform tasks autonomously by combining reasoning, memory, and tool usage.
+
+In modern applications, agents can translate natural language into structured queries such as SQL, validate them, and retrieve real-time data from databases.
+
+This approach enables dynamic data retrieval without relying on traditional embedding-based retrieval methods, making it efficient for structured data systems.
+
+Such systems are widely used in applications like chatbots, analytics platforms, and intelligent assistants.
