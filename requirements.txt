@@ -8,3 +8,5 @@ tqdm
 sentence-transformers
 faiss-cpu
 chromadb
+langchain_groq
+python-dotenv
